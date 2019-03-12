@@ -102,3 +102,7 @@
 2019-03-13 00:07:58,137 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\Desktop\cucumber\Cucumber Workspace\Demo\src\main\resources
 2019-03-13 00:07:58,138 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-13 00:07:58,139 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\Desktop\cucumber\Cucumber Workspace\Demo\src\test\resources
+2019-03-13 00:25:14,387 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 00:25:14,388 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\Desktop\cucumber\Cucumber Workspace\Demo\src\main\resources
+2019-03-13 00:25:14,401 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-13 00:25:14,401 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\Desktop\cucumber\Cucumber Workspace\Demo\src\test\resources
