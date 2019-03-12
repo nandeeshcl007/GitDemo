@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunnerClass" project="Demo" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="TestRunnerP.TestRunnerClass" time="0.015">
+    <testsuite name="Feature: Login" time="0.015">
+      <testsuite name="Scenario: Mail ID" time="0.015">
+        <testcase name="Given User in Login page" classname="Scenario: Mail ID" time="0.001"/>
+        <testcase name="When user enter mail id and pw" classname="Scenario: Mail ID" time="0.001"/>
+        <testcase name="Then user go to home page" classname="Scenario: Mail ID" time="0.012"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
