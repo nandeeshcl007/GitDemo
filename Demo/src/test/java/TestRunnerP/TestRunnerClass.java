@@ -10,7 +10,5 @@ import cucumber.api.CucumberOptions;
 		glue="stepDefnitions"
 		)
 
-public class TestRunnerClass {
-	
-	
+public class TestRunnerClass {	
 }
